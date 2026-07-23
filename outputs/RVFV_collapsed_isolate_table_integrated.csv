@@ -1,0 +1,987 @@
+isolate_id,Country,Species,Host,Collection_Date,n_accessions,segments_present,n_segments,has_L,has_M,has_S,complete_records,segment_pattern
+Angola | ACCESSION_EU312125,Angola,Phlebovirus riftense,Homo sapiens,1985,1,S,1,FALSE,FALSE,TRUE,1,S only
+Angola | BJ01,Angola,Phlebovirus riftense,Homo sapiens,2016-07-22,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Angola | SPU204/85,Angola,Phlebovirus riftense,Homo sapiens,1985,1,M,1,FALSE,TRUE,FALSE,0,M only
+Botswana | BOT_BOV/2014/1894_S3,Botswana,Phlebovirus riftense,Bos taurus,2014,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Botswana | BOT_CAP/2017/2928_S5,Botswana,Phlebovirus riftense,Capra hircus,2017,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Botswana | BOT_CAP/2018/1327_S6,Botswana,Phlebovirus riftense,Capra hircus,2018,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Botswana | BOT_CAP/2020/2112_S4,Botswana,Phlebovirus riftense,Capra hircus,2020,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Burkina Faso | ACCESSION_DQ375399,Burkina Faso,Phlebovirus riftense,Aedes cumminsii,1983,1,L,1,TRUE,FALSE,FALSE,1,L only
+Burkina Faso | ACCESSION_DQ380181,Burkina Faso,Phlebovirus riftense,Aedes cumminsii,1983,1,S,1,FALSE,FALSE,TRUE,1,S only
+Burkina Faso | ACCESSION_DQ380187,Burkina Faso,Phlebovirus riftense,Aedes cumminsii,1983,1,M,1,FALSE,TRUE,FALSE,1,M only
+Burkina Faso | ACCESSION_EU312116,Burkina Faso,Phlebovirus riftense,Aedes cumminsii,1983,1,S,1,FALSE,FALSE,TRUE,1,S only
+Burundi | BDI0002,Burundi,Phlebovirus riftense,Bos taurus,2022-05-17,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Burundi | BDI0003,Burundi,Phlebovirus riftense,Bos taurus,2022-05-17,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Burundi | BDI0005,Burundi,Phlebovirus riftense,Bos taurus,2022-05-19,1,M,1,FALSE,TRUE,FALSE,0,M only
+Burundi | BDI0006,Burundi,Phlebovirus riftense,Bos taurus,2022-05-19,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Burundi | BDI0007,Burundi,Phlebovirus riftense,Bos taurus,2022-05-19,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Burundi | BDI0008,Burundi,Phlebovirus riftense,Bos taurus,2022-05-19,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Burundi | BDI0009,Burundi,Phlebovirus riftense,Bos taurus,2022-05-18,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | 74HB59,Central African Republic,Phlebovirus riftense,Homo sapiens,1974,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | ACCESSION_DQ375415,Central African Republic,Phlebovirus riftense,unknown_host,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375416,Central African Republic,Phlebovirus riftense,unknown_host,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375417,Central African Republic,Phlebovirus riftense,unknown_host,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375419,Central African Republic,Phlebovirus riftense,unknown_host,1969,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375422,Central African Republic,Phlebovirus riftense,unknown_host,1985,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375423,Central African Republic,Phlebovirus riftense,unknown_host,1985,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ375425,Central African Republic,Phlebovirus riftense,unknown_host,1973,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_DQ380160,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380161,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380162,Central African Republic,Phlebovirus riftense,Homo sapiens,1973,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380163,Central African Republic,Phlebovirus riftense,Homo sapiens,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380167,Central African Republic,Phlebovirus riftense,Mansonia africana,1969,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380172,Central African Republic,Phlebovirus riftense,Homo sapiens,1973,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380182,Central African Republic,Phlebovirus riftense,unknown_host,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_DQ380211,Central African Republic,Phlebovirus riftense,Homo sapiens,1973,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_DQ380212,Central African Republic,Phlebovirus riftense,Homo sapiens,1974,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_DQ380217,Central African Republic,Phlebovirus riftense,Mansonia africana,1969,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_DQ380218,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_DQ380219,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_DQ380221,Central African Republic,Phlebovirus riftense,Homo sapiens,1973,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_EU312122,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_KJ782452,Central African Republic,Phlebovirus riftense,Homo sapiens,1985-12-24,1,S,1,FALSE,FALSE,TRUE,1,S only
+Central African Republic | ACCESSION_KJ782453,Central African Republic,Phlebovirus riftense,Homo sapiens,1985-12-24,1,M,1,FALSE,TRUE,FALSE,1,M only
+Central African Republic | ACCESSION_KJ782454,Central African Republic,Phlebovirus riftense,Homo sapiens,1985-12-24,1,L,1,TRUE,FALSE,FALSE,1,L only
+Central African Republic | ACCESSION_KJ782455,Central African Republic,Phlebovirus riftense,Aedes palpalae,1969-06-12,1,S,1,FALSE,FALSE,TRUE,0,S only
+Central African Republic | ACCESSION_KJ782456,Central African Republic,Phlebovirus riftense,Aedes palpalae,1969-06-12,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | ACCESSION_KJ782457,Central African Republic,Phlebovirus riftense,Aedes palpalae,1969-06-12,1,L,1,TRUE,FALSE,FALSE,0,L only
+Central African Republic | ArB1976,Central African Republic,Phlebovirus riftense,Mansonia africana,1969,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | CAR R1662,Central African Republic,Phlebovirus riftense,Homo sapiens,1985,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | CAR R1752,Central African Republic,Phlebovirus riftense,Homo sapiens,1986,1,M,1,FALSE,TRUE,FALSE,0,M only
+Central African Republic | RSA/OBP/RVFVClone13/LAV,Central African Republic,Phlebovirus riftense,unknown_host,1974,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Central African Republic | ZINGA J83 R1,Central African Republic,Phlebovirus riftense,Homo sapiens,1969-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Chad | ACCESSION_PX580508,Chad,Phlebovirus riftense,Homo sapiens,2001,1,S,1,FALSE,FALSE,TRUE,1,S only
+Chad | CHA01,Chad,Phlebovirus riftense,Homo sapiens,2001,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Egypt | 93-Abeer,Egypt,Phlebovirus riftense,Homo sapiens,1993,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | 94EG Tambul,Egypt,Phlebovirus riftense,Ovis aries,1994,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | 95EG Cow-2509,Egypt,Phlebovirus riftense,Bos taurus,1995,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | ACCESSION_DQ375403,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375404,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375405,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375406,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375407,Egypt,Phlebovirus riftense,Culex pipiens,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375408,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375409,Egypt,Phlebovirus riftense,Culicidae,1978,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375410,Egypt,Phlebovirus riftense,Ovis aries,1979,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375411,Egypt,Phlebovirus riftense,unknown_host,1978,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ375412,Egypt,Phlebovirus riftense,Bos taurus,1978,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | ACCESSION_DQ380145,Egypt,Phlebovirus riftense,Ovis aries,1979,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380146,Egypt,Phlebovirus riftense,Culicidae,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380147,Egypt,Phlebovirus riftense,Ochlerotatus taeniorhynchus,unknown_date,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380148,Egypt,Phlebovirus riftense,unknown_host,unknown_date,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380149,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380150,Egypt,Phlebovirus riftense,Culex pipiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380151,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380152,Egypt,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380153,Egypt,Phlebovirus riftense,Homo sapiens,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380154,Egypt,Phlebovirus riftense,unknown_host,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_DQ380199,Egypt,Phlebovirus riftense,Ochlerotatus taeniorhynchus,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380200,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380201,Egypt,Phlebovirus riftense,Culex pipiens,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380202,Egypt,Phlebovirus riftense,unknown_host,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380203,Egypt,Phlebovirus riftense,Homo sapiens,1978,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380204,Egypt,Phlebovirus riftense,Culicidae,1978,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380205,Egypt,Phlebovirus riftense,Ovis aries,1979,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380206,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_DQ380207,Egypt,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_EU312110,Egypt,Phlebovirus riftense,Metazoa,1994,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_EU312137,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_EU312138,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_GU953292,Egypt,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | ACCESSION_NC_014395,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Egypt | ACCESSION_NC_014396,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,M,1,FALSE,TRUE,FALSE,1,M only
+Egypt | ACCESSION_NC_014397,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,1,L only
+Egypt | EGY-Bat-1/20,Egypt,Phlebovirus riftense,Chiroptera,2019-12-11,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Egypt | Egy-Bat-2/20,Egypt,Phlebovirus riftense,Chiroptera,2019-12-11,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Egypt | RVFV/VRLCU/Cairo4/2004,Egypt,Phlebovirus riftense,Ixodoidea,2004,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | RVFV/VRLCU/Cairo7/2004,Egypt,Phlebovirus riftense,Ixodoidea,2004,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | RVFV/VRLCU/Marsa Matrouh19/2004,Egypt,Phlebovirus riftense,Ixodoidea,2004,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | ZH-548,Egypt,Phlebovirus riftense,Homo sapiens,1977,1,M,1,FALSE,TRUE,FALSE,0,M only
+Egypt | ZH-548,Egypt,Phlebovirus riftense,unknown_host,1977,1,L,1,TRUE,FALSE,FALSE,0,L only
+Egypt | ZH548,Egypt,Phlebovirus riftense,Homo sapiens,1977,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Gabon | 2019/7,Gabon,Phlebovirus riftense,Philantomba monticola,2019-04-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Gabon | 2019/Sample-108,Gabon,Phlebovirus riftense,Philantomba monticola,2019-07-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Gabon | 2019/Sample-120,Gabon,Phlebovirus riftense,Philantomba monticola,2019-07-02,1,S,1,FALSE,FALSE,TRUE,0,S only
+Gabon | 2019/Sample-166,Gabon,Phlebovirus riftense,Cephalophorus callipygus,2019-07-06,1,S,1,FALSE,FALSE,TRUE,1,S only
+Guinea | ACCESSION_DQ375420,Guinea,Phlebovirus riftense,Hipposideros caffer,1981,1,L,1,TRUE,FALSE,FALSE,1,L only
+Guinea | ACCESSION_DQ375421,Guinea,Phlebovirus riftense,Epomophorus pusillus,1984,1,L,1,TRUE,FALSE,FALSE,1,L only
+Guinea | ACCESSION_DQ380165,Guinea,Phlebovirus riftense,Hipposideros caffer,1981,1,S,1,FALSE,FALSE,TRUE,1,S only
+Guinea | ACCESSION_DQ380166,Guinea,Phlebovirus riftense,Epomophorus pusillus,1984,1,S,1,FALSE,FALSE,TRUE,1,S only
+Guinea | ACCESSION_DQ380215,Guinea,Phlebovirus riftense,Hipposideros caffer,1981,1,M,1,FALSE,TRUE,FALSE,1,M only
+Guinea | ACCESSION_DQ380216,Guinea,Phlebovirus riftense,Epomops,1984,1,M,1,FALSE,TRUE,FALSE,1,M only
+Guinea | ACCESSION_EU312109,Guinea,Phlebovirus riftense,Epomophorus pusillus,1984,1,S,1,FALSE,FALSE,TRUE,1,S only
+Guinea | AnK3837,Guinea,Phlebovirus riftense,Hipposideros caffer,1981,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | 08HAB,Kenya,Phlebovirus riftense,Bos taurus,2018-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | 214445,Kenya,Phlebovirus riftense,Aedes mcintoshi,1983,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | 250618,Kenya,Phlebovirus riftense,Homo sapiens,2018-06-06,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | 500618,Kenya,Phlebovirus riftense,Homo sapiens,2018-06-12,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | A-MO,Kenya,Phlebovirus riftense,Homo sapiens,2020-11-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | ACCESSION_DQ375400,Kenya,Phlebovirus riftense,unknown_host,1998,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_DQ375402,Kenya,Phlebovirus riftense,Ochlerotatus macintoshi,1983,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_DQ375427,Kenya,Phlebovirus riftense,Bos taurus,unknown_date,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_DQ375431,Kenya,Phlebovirus riftense,Ovis aries,1951,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_DQ380155,Kenya,Phlebovirus riftense,Ovis aries,1951,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_DQ380169,Kenya,Phlebovirus riftense,Homo sapiens,1998,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_DQ380171,Kenya,Phlebovirus riftense,Ochlerotatus macintoshi,1983,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_DQ380176,Kenya,Phlebovirus riftense,Bos taurus,unknown_date,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_DQ380190,Kenya,Phlebovirus riftense,Bos taurus,unknown_date,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_DQ380192,Kenya,Phlebovirus riftense,Ovis aries,1951,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_DQ380196,Kenya,Phlebovirus riftense,Homo sapiens,1998,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_DQ380198,Kenya,Phlebovirus riftense,Ochlerotatus macintoshi,1983,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EF467177,Kenya,Phlebovirus riftense,Culex poicilipes,2007-01,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_EF467178,Kenya,Phlebovirus riftense,Aedes ochraceus,2006-12,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_EU312103,Kenya,Phlebovirus riftense,Bos taurus,1965,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312105,Kenya,Phlebovirus riftense,Aedes mcintoshi,1983,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312118,Kenya,Phlebovirus riftense,unknown_host,1962,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312119,Kenya,Phlebovirus riftense,unknown_host,1977,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312128,Kenya,Phlebovirus riftense,Homo sapiens,1997,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312139,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312140,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312141,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312142,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312143,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312144,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312145,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312146,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU312147,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574004,Kenya,Phlebovirus riftense,Bos taurus,2007-05-14,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574005,Kenya,Phlebovirus riftense,Bos taurus,2007-04-23,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574006,Kenya,Phlebovirus riftense,Ovis aries,2007-02-07,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574007,Kenya,Phlebovirus riftense,Bos taurus,2007-02-27,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574008,Kenya,Phlebovirus riftense,Syncerus caffer,2007-02-09,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574009,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574010,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574011,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574012,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574013,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574014,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574015,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574016,Kenya,Phlebovirus riftense,Bos taurus,2007-01-30,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574017,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574018,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574019,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574020,Kenya,Phlebovirus riftense,Bos taurus,2007-01-25,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574021,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574022,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574023,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574024,Kenya,Phlebovirus riftense,Ovis aries,2007-01-26,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574025,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574026,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574027,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574028,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574029,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574030,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_EU574031,Kenya,Phlebovirus riftense,Bos taurus,2007-05-14,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574032,Kenya,Phlebovirus riftense,Bos taurus,2007-04-23,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574033,Kenya,Phlebovirus riftense,Ovis aries,2007-02-07,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574034,Kenya,Phlebovirus riftense,Bos taurus,2007-02-27,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574035,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574036,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574037,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574038,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574039,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574040,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574041,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574042,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574043,Kenya,Phlebovirus riftense,Bos taurus,2007-01-30,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574044,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574045,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574046,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574047,Kenya,Phlebovirus riftense,Bos taurus,2007-01-25,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574048,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574049,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574050,Kenya,Phlebovirus riftense,Ovis aries,2007-01-26,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574051,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574052,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574053,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574054,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574055,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574056,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_EU574057,Kenya,Phlebovirus riftense,Bos taurus,2007-05-14,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574058,Kenya,Phlebovirus riftense,Bos taurus,2007-04-23,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574059,Kenya,Phlebovirus riftense,Ovis aries,2007-02-07,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574060,Kenya,Phlebovirus riftense,Bos taurus,2007-02-27,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574061,Kenya,Phlebovirus riftense,Syncerus caffer,2007-02-09,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574062,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574063,Kenya,Phlebovirus riftense,Bos taurus,2007-02-21,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574064,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574065,Kenya,Phlebovirus riftense,Bos taurus,2007-02-05,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574066,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574067,Kenya,Phlebovirus riftense,Ovis aries,2007-02-07,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574068,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574069,Kenya,Phlebovirus riftense,Capra hircus,2006-12-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574070,Kenya,Phlebovirus riftense,Bos taurus,2007-01-26,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574071,Kenya,Phlebovirus riftense,Bos taurus,2007-01-30,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574072,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574073,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574074,Kenya,Phlebovirus riftense,Bos taurus,2007-01-31,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574075,Kenya,Phlebovirus riftense,Bos taurus,2007-01-25,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574076,Kenya,Phlebovirus riftense,Bos taurus,2007-01-26,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574077,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574078,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574079,Kenya,Phlebovirus riftense,Bos taurus,2007-01-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574080,Kenya,Phlebovirus riftense,Ovis aries,2007-01-26,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574081,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574082,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574083,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574084,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574085,Kenya,Phlebovirus riftense,Bos taurus,2007-01-16,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574086,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_EU574087,Kenya,Phlebovirus riftense,Bos taurus,2007-01-12,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | ACCESSION_HM586953,Kenya,Phlebovirus riftense,Homo sapiens,2006-12-21,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586954,Kenya,Phlebovirus riftense,Homo sapiens,2006-12-21,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586955,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-05,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586956,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-15,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586957,Kenya,Phlebovirus riftense,Homo sapiens,2007-02-03,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586958,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-30,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586961,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586962,Kenya,Phlebovirus riftense,Culicidae,2007-01-13,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586963,Kenya,Phlebovirus riftense,Culicidae,2007-02-13,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_HM586964,Kenya,Phlebovirus riftense,unknown_host,2006-12-21,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586965,Kenya,Phlebovirus riftense,unknown_host,2006-12-21,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586966,Kenya,Phlebovirus riftense,unknown_host,2007-01-05,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586967,Kenya,Phlebovirus riftense,unknown_host,2007-01-15,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586968,Kenya,Phlebovirus riftense,unknown_host,2007-02-03,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586969,Kenya,Phlebovirus riftense,unknown_host,2007-01-30,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586972,Kenya,Phlebovirus riftense,unknown_host,2006-12-29,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586973,Kenya,Phlebovirus riftense,unknown_host,2007-01-13,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586974,Kenya,Phlebovirus riftense,unknown_host,2007-02-13,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_HM586975,Kenya,Phlebovirus riftense,unknown_host,2006-12-21,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586976,Kenya,Phlebovirus riftense,unknown_host,2006-12-21,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586977,Kenya,Phlebovirus riftense,unknown_host,2007-01-05,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586978,Kenya,Phlebovirus riftense,unknown_host,2007-01-15,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586979,Kenya,Phlebovirus riftense,unknown_host,2007-02-03,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586980,Kenya,Phlebovirus riftense,unknown_host,2007-01-30,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586983,Kenya,Phlebovirus riftense,unknown_host,2006-12-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_HM586984,Kenya,Phlebovirus riftense,unknown_host,2007-01-13,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF309200,Kenya,Phlebovirus riftense,Bubalus bubalis,2007-02-09,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_JF326186,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_JF326187,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_JF326188,Kenya,Phlebovirus riftense,Culicidae,2006-12-31,1,L,1,TRUE,FALSE,FALSE,0,L only
+Kenya | ACCESSION_JF326191,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_JF326192,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_JF326193,Kenya,Phlebovirus riftense,Culicidae,2006-12-31,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | ACCESSION_JF326196,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-08,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326197,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326198,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326199,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326200,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326201,Kenya,Phlebovirus riftense,Culicidae,2006-12-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_JF326202,Kenya,Phlebovirus riftense,Culicidae,2006-12-31,1,S,1,FALSE,FALSE,TRUE,0,S only
+Kenya | ACCESSION_KX096938,Kenya,Phlebovirus riftense,Aedes ochraceus,2006,1,L,1,TRUE,FALSE,FALSE,1,L only
+Kenya | ACCESSION_KX096939,Kenya,Phlebovirus riftense,Aedes ochraceus,2006,1,M,1,FALSE,TRUE,FALSE,1,M only
+Kenya | ACCESSION_KX096940,Kenya,Phlebovirus riftense,Aedes ochraceus,2006,1,S,1,FALSE,FALSE,TRUE,1,S only
+Kenya | AFI-MGT-989,Kenya,Phlebovirus riftense,Homo sapiens,2018-07-16,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | AM-M1,Kenya,Phlebovirus riftense,Bos taurus,2021-01-16,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | B1143,Kenya,Phlebovirus riftense,Bos taurus,1977,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | B309,Kenya,Phlebovirus riftense,Bos taurus,1977,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | B314,Kenya,Phlebovirus riftense,Bos taurus,1962,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | B674,Kenya,Phlebovirus riftense,Bos taurus,1963,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | CML3,Kenya,Phlebovirus riftense,Bos taurus,2018-06-27,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | DVS-230,Kenya,Phlebovirus riftense,Bos taurus,2021-07-15,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | DVS-321,Kenya,Phlebovirus riftense,Bos taurus,2021-07-15,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | DVS-333,Kenya,Phlebovirus riftense,Bos taurus,2021-07-15,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | DVS-356,Kenya,Phlebovirus riftense,Bos taurus,2021-07-15,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | DVS-372,Kenya,Phlebovirus riftense,Bos taurus,2021-07-15,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | E358,Kenya,Phlebovirus riftense,Homo sapiens,1998-02-10,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | HA-HAR,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | J10,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | J8,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | J9,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-11,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | JU-KB,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-11,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | K2,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | KEM-BR,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-03,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | KEM-JC,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | KEM-ND,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | KEN56/B2653/IB8,Kenya,Phlebovirus riftense,Bos taurus,1963,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | KEN57 Rintoul,Kenya,Phlebovirus riftense,Ovis aries,1951,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | Ken 199800523,Kenya,Phlebovirus riftense,Homo sapiens,1998-01-04,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | Kenya 56 (IB8),Kenya,Phlebovirus riftense,Bos taurus,unknown_date,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Kenya | Kitale1840,Kenya,Phlebovirus riftense,Bos taurus,1964,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | MO-LE,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | MSA,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | N12,Kenya,Phlebovirus riftense,Homo sapiens,2019-02-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | NA-KOL,Kenya,Phlebovirus riftense,Homo sapiens,2007-01-03,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Kenya | S35,Kenya,Phlebovirus riftense,Ovis aries,1972,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Kenya | SPU2/98/1,Kenya,Phlebovirus riftense,Homo sapiens,1998,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU2/98/9,Kenya,Phlebovirus riftense,Capra hircus,1998,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU22/07/118,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU22/07/125,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU22/07/129,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU22/07/4,Kenya,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SPU384/97/1,Kenya,Phlebovirus riftense,Homo sapiens,1997,1,M,1,FALSE,TRUE,FALSE,0,M only
+Kenya | SWA-ISI,Kenya,Phlebovirus riftense,Homo sapiens,2020-11-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Madagascar | ACCESSION_DQ375414,Madagascar,Phlebovirus riftense,unknown_host,1979,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_DQ380144,Madagascar,Phlebovirus riftense,Homo sapiens,1979,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_DQ380210,Madagascar,Phlebovirus riftense,Homo sapiens,1979,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_EU312106,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_EU312107,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_EU312108,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_EU312112,Madagascar,Phlebovirus riftense,Culicidae,1979,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_GQ443126,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01-30,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443127,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443128,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443129,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-22,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443130,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-15,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443131,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-22,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443132,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-22,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443133,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443134,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443135,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-09,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443136,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443137,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443138,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443139,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-11,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443140,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-14,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443141,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-16,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443142,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443143,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443144,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443145,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443146,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443147,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443148,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443149,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443150,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443151,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443152,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443153,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443154,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443155,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443156,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-25,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443157,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443158,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443159,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443160,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443161,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443162,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443163,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-28,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443164,Madagascar,Phlebovirus riftense,Capra hircus,2008-04-13,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443165,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-15,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443166,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-18,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443167,Madagascar,Phlebovirus riftense,Ovis aries,2008-04-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443168,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-25,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443169,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-25,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443170,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443171,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-23,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443172,Madagascar,Phlebovirus riftense,Bos taurus,2008-11-28,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443173,Madagascar,Phlebovirus riftense,Bos taurus,2008-11-29,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443174,Madagascar,Phlebovirus riftense,Bos taurus,2008-12-01,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443175,Madagascar,Phlebovirus riftense,Homo sapiens,2008-12-12,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GQ443176,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01-30,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443177,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443178,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443179,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-22,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443180,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-15,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443181,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-22,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443182,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443183,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443184,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-09,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443185,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443186,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443187,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443188,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-11,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443189,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-14,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443190,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-16,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443191,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443192,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443193,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443194,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443195,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443196,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443197,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443198,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443199,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443200,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443201,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443202,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443203,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-25,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443204,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443205,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443206,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443207,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443208,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443209,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-28,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443210,Madagascar,Phlebovirus riftense,Capra hircus,2008-04-13,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443211,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-15,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443212,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-18,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443213,Madagascar,Phlebovirus riftense,Ovis aries,2008-04-20,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443214,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-25,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443215,Madagascar,Phlebovirus riftense,Homo sapiens,2008-05-25,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443216,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-29,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443217,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-23,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GQ443218,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01-30,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443219,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443220,Madagascar,Phlebovirus riftense,Bos taurus,2008-02-20,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443221,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-22,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443222,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-15,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443223,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443224,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-09,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443225,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443226,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443227,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-12,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443228,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-11,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443229,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-14,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443230,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443231,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443232,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443233,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443234,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443235,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443236,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443237,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443238,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443239,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443240,Madagascar,Phlebovirus riftense,Bos taurus,2008-03-24,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443241,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-25,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443242,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443243,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443244,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443245,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443246,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443247,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-26,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443248,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03-28,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443249,Madagascar,Phlebovirus riftense,Capra hircus,2008-04-13,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443250,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-15,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443251,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-18,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443252,Madagascar,Phlebovirus riftense,Ovis aries,2008-04-20,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443253,Madagascar,Phlebovirus riftense,Bos taurus,2008-04-25,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443254,Madagascar,Phlebovirus riftense,Homo sapiens,2008-05-25,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443255,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-29,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GQ443256,Madagascar,Phlebovirus riftense,Homo sapiens,2008-04-23,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135840,Madagascar,Phlebovirus riftense,Anopheles coustani,2008-12-19,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135841,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-19,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135842,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135843,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-19,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135844,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135845,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135846,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135847,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-28,1,S,1,FALSE,FALSE,TRUE,0,S only
+Madagascar | ACCESSION_GU135848,Madagascar,Phlebovirus riftense,Anopheles coustani,2008-12-19,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135849,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-19,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135850,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-20,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135851,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-19,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135852,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-20,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135853,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135854,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135855,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-28,1,L,1,TRUE,FALSE,FALSE,0,L only
+Madagascar | ACCESSION_GU135856,Madagascar,Phlebovirus riftense,Anopheles coustani,2008-12-19,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135857,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-19,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135858,Madagascar,Phlebovirus riftense,Anopheles squamosus,2008-12-20,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135859,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-19,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135860,Madagascar,Phlebovirus riftense,Culex antennatus,2008-12-20,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135861,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135862,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-27,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_GU135863,Madagascar,Phlebovirus riftense,Anopheles squamosus,2009-04-28,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | ACCESSION_JF311368,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311369,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311370,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311371,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311372,Madagascar,Phlebovirus riftense,Homo sapiens,1991-02,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311373,Madagascar,Phlebovirus riftense,Bos taurus,1991-02,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311374,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311375,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311376,Madagascar,Phlebovirus riftense,Bos taurus,2008-03,1,L,1,TRUE,FALSE,FALSE,1,L only
+Madagascar | ACCESSION_JF311377,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311378,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311379,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311380,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311381,Madagascar,Phlebovirus riftense,Homo sapiens,1991-02,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311382,Madagascar,Phlebovirus riftense,Bos taurus,1991-02,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311383,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311384,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311385,Madagascar,Phlebovirus riftense,Bos taurus,2008-03,1,M,1,FALSE,TRUE,FALSE,1,M only
+Madagascar | ACCESSION_JF311386,Madagascar,Phlebovirus riftense,Homo sapiens,2008-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311387,Madagascar,Phlebovirus riftense,Homo sapiens,2008-02,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311388,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311389,Madagascar,Phlebovirus riftense,Homo sapiens,2008-03,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311390,Madagascar,Phlebovirus riftense,Homo sapiens,1991-02,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311391,Madagascar,Phlebovirus riftense,Bos taurus,1991-02,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311392,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311393,Madagascar,Phlebovirus riftense,Bos taurus,2008-02,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | ACCESSION_JF311394,Madagascar,Phlebovirus riftense,Bos taurus,2008-03,1,S,1,FALSE,FALSE,TRUE,1,S only
+Madagascar | M48/08,Madagascar,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,1,L+M+S
+Madagascar | MgAn1002,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | MgAn990,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | MgAn991,Madagascar,Phlebovirus riftense,Bos taurus,1991,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | MgAr811,Madagascar,Phlebovirus riftense,Aedes sp.,1979,1,M,1,FALSE,TRUE,FALSE,0,M only
+Madagascar | MgH824,Madagascar,Phlebovirus riftense,Homo sapiens,1979,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mali | RVF41125,Mali,Phlebovirus riftense,Homo sapiens,2016,1,S,1,FALSE,FALSE,TRUE,0,S only
+Mali | RVF41318,Mali,Phlebovirus riftense,Homo sapiens,2016,1,S,1,FALSE,FALSE,TRUE,0,S only
+Mauritania | 2018/MRT,Mauritania,Phlebovirus riftense,Culicidae,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Mauritania | 2018/MRT/1,Mauritania,Phlebovirus riftense,Culicidae,2018,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Mauritania | 2018/MRT/2,Mauritania,Phlebovirus riftense,Culicidae,2018,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Mauritania | 2018/MRT/3,Mauritania,Phlebovirus riftense,Culicidae,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | 2018/MRT/4,Mauritania,Phlebovirus riftense,Culicidae,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | 211856,Mauritania,Phlebovirus riftense,Homo sapiens,2010-12-05,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 211857,Mauritania,Phlebovirus riftense,Homo sapiens,2010-12-05,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 211977,Mauritania,Phlebovirus riftense,Homo sapiens,2010-12-05,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227595,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227598,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227601,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227602,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227603,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 227608,Mauritania,Phlebovirus riftense,Homo sapiens,2012-11-02,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Mauritania | 25010-24,Mauritania,Phlebovirus riftense,Camelus,2010-10-06,1,M,1,FALSE,TRUE,FALSE,1,M only
+Mauritania | 25010-30,Mauritania,Phlebovirus riftense,unknown_host,unknown_date,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Mauritania | 25010_24,Mauritania,Phlebovirus riftense,Camelus,2010-10-06,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | 2687/3,Mauritania,Phlebovirus riftense,unknown_host,unknown_date,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Mauritania | 272655,Mauritania,Phlebovirus riftense,Homo sapiens,2015,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | 272659,Mauritania,Phlebovirus riftense,Homo sapiens,2015,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Mauritania | 272659,Mauritania,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Mauritania | 272660,Mauritania,Phlebovirus riftense,Homo sapiens,2015,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Mauritania | ACCESSION_DQ375395,Mauritania,Phlebovirus riftense,unknown_host,1987,1,L,1,TRUE,FALSE,FALSE,1,L only
+Mauritania | ACCESSION_DQ375396,Mauritania,Phlebovirus riftense,unknown_host,1987,1,L,1,TRUE,FALSE,FALSE,1,L only
+Mauritania | ACCESSION_DQ375397,Mauritania,Phlebovirus riftense,unknown_host,1987,1,L,1,TRUE,FALSE,FALSE,1,L only
+Mauritania | ACCESSION_DQ375398,Mauritania,Phlebovirus riftense,unknown_host,1987,1,L,1,TRUE,FALSE,FALSE,1,L only
+Mauritania | ACCESSION_DQ380177,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | ACCESSION_DQ380178,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | ACCESSION_DQ380179,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | ACCESSION_DQ380180,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | ACCESSION_DQ380183,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,M,1,FALSE,TRUE,FALSE,1,M only
+Mauritania | ACCESSION_DQ380184,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,M,1,FALSE,TRUE,FALSE,1,M only
+Mauritania | ACCESSION_DQ380185,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,M,1,FALSE,TRUE,FALSE,1,M only
+Mauritania | ACCESSION_DQ380186,Mauritania,Phlebovirus riftense,Homo sapiens,1987,1,M,1,FALSE,TRUE,FALSE,1,M only
+Mauritania | ACCESSION_EF160115,Mauritania,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | ACCESSION_EF160116,Mauritania,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | ACCESSION_EU312104,Mauritania,Phlebovirus riftense,Homo sapiens,1988,1,S,1,FALSE,FALSE,TRUE,1,S only
+Mauritania | ACCESSION_JQ974833,Mauritania,Phlebovirus riftense,Camelus,2011,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | FLI_MR202/13_M,Mauritania,Phlebovirus riftense,Bos taurus,2013-03-21,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | FLI_MR202/13_S,Mauritania,Phlebovirus riftense,Bos taurus,2013-03-21,1,S,1,FALSE,FALSE,TRUE,0,S only
+Mauritania | OS-4,Mauritania,Phlebovirus riftense,Homo sapiens,1988,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mauritania | SH272655,Mauritania,Phlebovirus riftense,Homo sapiens,2015,2,"L,S",2,TRUE,FALSE,TRUE,0,L+S
+Mozambique | RFV-Moz-Gob-T7-2014,Mozambique,Phlebovirus riftense,Capra hircus,2014-03,1,M,1,FALSE,TRUE,FALSE,0,M only
+Mozambique | RFV-Moz-Gob-T9-2014,Mozambique,Phlebovirus riftense,Capra hircus,2014-03,1,M,1,FALSE,TRUE,FALSE,0,M only
+Namibia | ACCESSION_EU312124,Namibia,Phlebovirus riftense,Homo sapiens,2004,1,S,1,FALSE,FALSE,TRUE,1,S only
+Namibia | Namibia_2010,Namibia,Phlebovirus riftense,Ovis aries,2010-07-30,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Namibia | Namibia_2011,Namibia,Phlebovirus riftense,Antidorcas marsupialis,2011-07-30,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Namibia | SA579/11,Namibia,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Namibia | SPU77/04,Namibia,Phlebovirus riftense,Homo sapiens,2004,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Niger | ACCESSION_MG897464,Niger,Phlebovirus riftense,Homo sapiens,2016,1,S,1,FALSE,FALSE,TRUE,0,S only
+Niger | ACCESSION_MG897465,Niger,Phlebovirus riftense,Homo sapiens,2016,1,S,1,FALSE,FALSE,TRUE,0,S only
+Niger | ACCESSION_MG897467,Niger,Phlebovirus riftense,Homo sapiens,2016,1,M,1,FALSE,TRUE,FALSE,0,M only
+Rwanda | RW003,Rwanda,Phlebovirus riftense,Anopheles ziemanni,2022-04-26,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | RW004,Rwanda,Phlebovirus riftense,Anopheles ziemanni,2022-04-27,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | RW006,Rwanda,Phlebovirus riftense,Anopheles gambiae,2022-05-04,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | RW089,Rwanda,Phlebovirus riftense,Culex quinquefasciatus,2022-05-26,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | RW627,Rwanda,Phlebovirus riftense,Culex quinquefasciatus,2022-05-17,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2018NG10,Rwanda,Phlebovirus riftense,Bos taurus,2018-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2018RU1,Rwanda,Phlebovirus riftense,Bos taurus,2018-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2018RU1-SE,Rwanda,Phlebovirus riftense,Bos taurus,2018-01-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P1,Rwanda,Phlebovirus riftense,Bos taurus,2022-01-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P1,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-01,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P100,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-31,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P102,Rwanda,Phlebovirus riftense,Bos taurus,2022-05-08,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P102,Rwanda,Phlebovirus riftense,Bos taurus,2022-08-05,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P103,Rwanda,Phlebovirus riftense,Bos taurus,2022-08-08,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P104,Rwanda,Phlebovirus riftense,Bos taurus,2022-08-08,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P11,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-09,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P11,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P110,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-12,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P110,Rwanda,Phlebovirus riftense,Bos taurus,2022-12-09,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P116,Rwanda,Phlebovirus riftense,Bos taurus,2022-01-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P116,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-01,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P120,Rwanda,Phlebovirus riftense,Ovis aries,2022-07-08,1,L,1,TRUE,FALSE,FALSE,0,L only
+Rwanda | Rwanda2022P13,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-08,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P13,Rwanda,Phlebovirus riftense,Bos taurus,2022-08-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P2,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-07,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P2,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P23,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-13,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P26,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-11,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P26,Rwanda,Phlebovirus riftense,Bos taurus,2022-11-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P302,Rwanda,Phlebovirus riftense,Bos taurus,2022-04-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P302,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-04,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P31,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-17,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P319,Rwanda,Phlebovirus riftense,Bos taurus,2022-08-25,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P323,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-02,1,L,1,TRUE,FALSE,FALSE,0,L only
+Rwanda | Rwanda2022P326,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-28,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P33,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-25,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P35,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-17,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P36,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-25,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P4,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-07,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P4,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P40,Rwanda,Phlebovirus riftense,Bos taurus,2022-03-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P40,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-03,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P45,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-17,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P47,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-09,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P47,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P5,Rwanda,Phlebovirus riftense,Bos taurus,2022-03-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P5,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-03,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P55,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-12,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P55,Rwanda,Phlebovirus riftense,Bos taurus,2022-12-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P61,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-22,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P66,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-22,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P67,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-18,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P68,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-18,1,L,1,TRUE,FALSE,FALSE,0,L only
+Rwanda | Rwanda2022P69,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-13,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P7,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-09,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P7,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-06,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P71,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-14,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Rwanda | Rwanda2022P73,Rwanda,Phlebovirus riftense,Ovis aries,2022-03-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P73,Rwanda,Phlebovirus riftense,Ovis aries,2022-07-03,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P76,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-27,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P80,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-28,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P85,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-28,1,M,1,FALSE,TRUE,FALSE,0,M only
+Rwanda | Rwanda2022P86,Rwanda,Phlebovirus riftense,Bos taurus,2022-06-28,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Rwanda | Rwanda2022P90,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-09,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P90,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P91,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-09,2,"L,M",2,TRUE,TRUE,FALSE,0,L+M
+Rwanda | Rwanda2022P91,Rwanda,Phlebovirus riftense,Bos taurus,2022-09-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Rwanda | Rwanda2022P99,Rwanda,Phlebovirus riftense,Bos taurus,2022-07-29,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Senegal | ACCESSION_EU312117,Senegal,Phlebovirus riftense,Aedes dalzieli,1981,1,S,1,FALSE,FALSE,TRUE,1,S only
+Senegal | ArD38661,Senegal,Phlebovirus riftense,Aedes dalzieli,1983,1,M,1,FALSE,TRUE,FALSE,0,M only
+Senegal | HD21955,Senegal,Phlebovirus riftense,Homo sapiens,1975,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Senegal | SH326064,Senegal,Phlebovirus riftense,Homo sapiens,2020,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Senegal | SH327052,Senegal,Phlebovirus riftense,Homo sapiens,2020,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Senegal | SH328056,Senegal,Phlebovirus riftense,Homo sapiens,2020,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Senegal | SH409226,Senegal,Phlebovirus riftense,Homo sapiens,2022-11-11,3,"L,M,S",3,TRUE,TRUE,TRUE,1,L+M+S
+Senegal | SH409425,Senegal,Phlebovirus riftense,Homo sapiens,2022-11-11,1,L,1,TRUE,FALSE,FALSE,0,L only
+Senegal | SH409425,Senegal,Phlebovirus riftense,Homo sapiens,2022-11-17,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Somalia | ACCESSION_EU312126,Somalia,Phlebovirus riftense,Capra hircus,1998,1,S,1,FALSE,FALSE,TRUE,1,S only
+Somalia | SPU12/99/21,Somalia,Phlebovirus riftense,Capra hircus,1999,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | ACCESSION_DQ375428,South Africa,Phlebovirus riftense,unknown_host,1975,1,L,1,TRUE,FALSE,FALSE,1,L only
+South Africa | ACCESSION_DQ375433,South Africa,Phlebovirus riftense,Ovis aries,1951,1,L,1,TRUE,FALSE,FALSE,1,L only
+South Africa | ACCESSION_DQ380158,South Africa,Phlebovirus riftense,Ovis aries,1951,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_DQ380175,South Africa,Phlebovirus riftense,Homo sapiens,1975,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_DQ380189,South Africa,Phlebovirus riftense,Homo sapiens,1975,1,M,1,FALSE,TRUE,FALSE,1,M only
+South Africa | ACCESSION_DQ380195,South Africa,Phlebovirus riftense,Ovis aries,1951,1,M,1,FALSE,TRUE,FALSE,1,M only
+South Africa | ACCESSION_EU312111,South Africa,Phlebovirus riftense,Aedes circumluteolus,1955,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_EU312113,South Africa,Phlebovirus riftense,Eretmapodites quinquevittatus,1971,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_EU312114,South Africa,Phlebovirus riftense,Culex zombaensis,1981,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_EU312120,South Africa,Phlebovirus riftense,Homo sapiens,1975,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_EU312127,South Africa,Phlebovirus riftense,Bubalus bubalis,1999,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | ACCESSION_EU709747,South Africa,Phlebovirus riftense,Homo sapiens,2008,1,S,1,FALSE,FALSE,TRUE,0,S only
+South Africa | ACCESSION_EU709748,South Africa,Phlebovirus riftense,Homo sapiens,2008,1,S,1,FALSE,FALSE,TRUE,0,S only
+South Africa | ACCESSION_JF784386,South Africa,Phlebovirus riftense,Ovis aries,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+South Africa | ACCESSION_JF784387,South Africa,Phlebovirus riftense,Ovis aries,1974,1,M,1,FALSE,TRUE,FALSE,1,M only
+South Africa | ACCESSION_JF784388,South Africa,Phlebovirus riftense,Ovis aries,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+South Africa | An1830,South Africa,Phlebovirus riftense,Ovis aries,1956,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | Ar 118,South Africa,Phlebovirus riftense,Aedes circumluteolus,1955,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | Ar118,South Africa,Phlebovirus riftense,Aedes circumluteolus,1955,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | Ar12568,South Africa,Phlebovirus riftense,Eretmapodites quinquevittatus,1971,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | Ar20364,South Africa,Phlebovirus riftense,Culex zombaensis,1981,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | Ar74,South Africa,Phlebovirus riftense,Aedes circumluteolus,1955,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | H1739,South Africa,Phlebovirus riftense,Homo sapiens,1975,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | H1825,South Africa,Phlebovirus riftense,Homo sapiens,1975,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | J40/6,South Africa,Phlebovirus riftense,Syncerus caffer,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | M06/10,South Africa,Phlebovirus riftense,Bos taurus,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M12/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M127/09,South Africa,Phlebovirus riftense,Bos taurus,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M16/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M19/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M1955,South Africa,Phlebovirus riftense,unidentified,1955,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M1975/Bov,South Africa,Phlebovirus riftense,Bos taurus,1975,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M21/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M247/09,South Africa,Phlebovirus riftense,Ovis aries,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M25/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M259/09,South Africa,Phlebovirus riftense,Bos taurus,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M260/09,South Africa,Phlebovirus riftense,Bos taurus,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M29/10,South Africa,Phlebovirus riftense,Bos taurus,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M33/10,South Africa,Phlebovirus riftense,Ovis aries,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M37/08,South Africa,Phlebovirus riftense,Bubalus bubalis,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M39/08,South Africa,Phlebovirus riftense,Bubalus bubalis,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M47/08,South Africa,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M57/74,South Africa,Phlebovirus riftense,unidentified,1974,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M66/09,South Africa,Phlebovirus riftense,Bos taurus,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M80/08/2,South Africa,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M84/08,South Africa,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | M85/08,South Africa,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | Ndumo_2017,South Africa,Phlebovirus riftense,Aedes durbanensis,2017,1,L,1,TRUE,FALSE,FALSE,0,L only
+South Africa | OV 35/74,South Africa,Phlebovirus riftense,unknown_host,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+South Africa | RSA/OBP/RVFV/Inactivated,South Africa,Phlebovirus riftense,unknown_host,1974,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | RV2652,South Africa,Phlebovirus riftense,unknown_host,2018,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | RV2655,South Africa,Phlebovirus riftense,unknown_host,2018,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+South Africa | SA103/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA106/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1061/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1081/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1092/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1094/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1095/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1098/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA110/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1143/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1167/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1171/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA122/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1221/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA1222/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1224/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA128/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1282/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA129/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1329/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA135/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1372/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1405/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1457/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1518/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA152/08,South Africa,Phlebovirus riftense,Homo sapiens,2008,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA1601/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA165/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1796/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA1797/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA184/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA206/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA220/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA225/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA226/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA250/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA257/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA275/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA276/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA287/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA295/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA317/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA320/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA322/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA327/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA336/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA342/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA344/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA354/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA359/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA373/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA377/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA389/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA394/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA395/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA404/09,South Africa,Phlebovirus riftense,Homo sapiens,2009,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA414/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA420/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA423/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA424/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA472/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA482/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA484/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA494/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA509/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA51,South Africa,Phlebovirus riftense,Ovis aries,1951,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA52/08,South Africa,Phlebovirus riftense,Homo sapiens,2008,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA535/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA538/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA54/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA573/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA59/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SA591/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA62/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA632/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA633/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA635/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA638/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA665/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA67/11,South Africa,Phlebovirus riftense,Homo sapiens,2011,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA705/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA71/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA746/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA76/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA770/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA79/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA85/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA918/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA93/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA95/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SA982/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU100/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU105/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU126/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU142/08,South Africa,Phlebovirus riftense,Bos taurus,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU152/08,South Africa,Phlebovirus riftense,Homo sapiens,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU162/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU404/09,South Africa,Phlebovirus riftense,Homo sapiens,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU52/99/1,South Africa,Phlebovirus riftense,Syncerus caffer,1999,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU52/99/2,South Africa,Phlebovirus riftense,Syncerus caffer,1999,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SPU52/99/3,South Africa,Phlebovirus riftense,Syncerus caffer,1999,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SPU52/99/5,South Africa,Phlebovirus riftense,Syncerus caffer,1999,1,M,1,FALSE,TRUE,FALSE,0,M only
+South Africa | SPU59/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU68/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU77/08,South Africa,Phlebovirus riftense,Syncerus caffer,2008,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU86/09,South Africa,Phlebovirus riftense,Bos taurus,2009,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU86/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+South Africa | SPU97/10,South Africa,Phlebovirus riftense,Homo sapiens,2010,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Sudan | ACCESSION_JQ820472,Sudan,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820473,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820474,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820475,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820476,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820477,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820478,Sudan,Phlebovirus riftense,Homo sapiens,2007-11,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820479,Sudan,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820480,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820481,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820482,Sudan,Phlebovirus riftense,Homo sapiens,2007-11,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ820483,Sudan,Phlebovirus riftense,Homo sapiens,2007,1,L,1,TRUE,FALSE,FALSE,0,L only
+Sudan | ACCESSION_JQ820484,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,L,1,TRUE,FALSE,FALSE,0,L only
+Sudan | ACCESSION_JQ820485,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,L,1,TRUE,FALSE,FALSE,0,L only
+Sudan | ACCESSION_JQ820486,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,L,1,TRUE,FALSE,FALSE,0,L only
+Sudan | ACCESSION_JQ820487,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,M,1,FALSE,TRUE,FALSE,0,M only
+Sudan | ACCESSION_JQ820488,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,M,1,FALSE,TRUE,FALSE,0,M only
+Sudan | ACCESSION_JQ820489,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,M,1,FALSE,TRUE,FALSE,0,M only
+Sudan | ACCESSION_JQ820490,Sudan,Phlebovirus riftense,Homo sapiens,2007,1,M,1,FALSE,TRUE,FALSE,0,M only
+Sudan | ACCESSION_JQ820491,Sudan,Phlebovirus riftense,Homo sapiens,2010-10,1,M,1,FALSE,TRUE,FALSE,0,M only
+Sudan | ACCESSION_JQ840745,Sudan,Phlebovirus riftense,Homo sapiens,2007-10,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_JQ840746,Sudan,Phlebovirus riftense,Homo sapiens,2007,1,S,1,FALSE,FALSE,TRUE,0,S only
+Sudan | ACCESSION_KU746664,Sudan,Phlebovirus riftense,Homo sapiens,2010-10-20,1,S,1,FALSE,FALSE,TRUE,0,S only
+Tanzania | ACCESSION_HM586959,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02-08,1,L,1,TRUE,FALSE,FALSE,0,L only
+Tanzania | ACCESSION_HM586960,Tanzania,Phlebovirus riftense,Homo sapiens,2007-03-14,1,L,1,TRUE,FALSE,FALSE,0,L only
+Tanzania | ACCESSION_HM586970,Tanzania,Phlebovirus riftense,unknown_host,2007-02-08,1,M,1,FALSE,TRUE,FALSE,0,M only
+Tanzania | ACCESSION_HM586971,Tanzania,Phlebovirus riftense,unknown_host,2007-03-14,1,M,1,FALSE,TRUE,FALSE,0,M only
+Tanzania | ACCESSION_HM586981,Tanzania,Phlebovirus riftense,unknown_host,2007-02-08,1,S,1,FALSE,FALSE,TRUE,0,S only
+Tanzania | ACCESSION_HM586982,Tanzania,Phlebovirus riftense,unknown_host,2007-03-14,1,S,1,FALSE,FALSE,TRUE,0,S only
+Tanzania | ACCESSION_JF326189,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,L,1,TRUE,FALSE,FALSE,0,L only
+Tanzania | ACCESSION_JF326190,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,L,1,TRUE,FALSE,FALSE,0,L only
+Tanzania | ACCESSION_JF326194,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,M,1,FALSE,TRUE,FALSE,0,M only
+Tanzania | ACCESSION_JF326195,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,M,1,FALSE,TRUE,FALSE,0,M only
+Tanzania | ACCESSION_JF326203,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,S,1,FALSE,FALSE,TRUE,0,S only
+Tanzania | ACCESSION_JF326204,Tanzania,Phlebovirus riftense,Homo sapiens,2007-02,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 123,Uganda,Phlebovirus riftense,Bos taurus,2022-05-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | 194,Uganda,Phlebovirus riftense,Bos taurus,2022-06-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | 201601292,Uganda,Phlebovirus riftense,Homo sapiens,2016-03-15,2,"M,S",2,FALSE,TRUE,TRUE,0,M+S
+Uganda | 2019000312_S|Uganda|2019,Uganda,Phlebovirus riftense,Homo sapiens,2019,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2019000825_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2019000825_L|Uganda|2019,Uganda,Phlebovirus riftense,Homo sapiens,2019,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2019000825_M|Uganda|2019,Uganda,Phlebovirus riftense,Homo sapiens,2019,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2019000825_S|Uganda|2019,Uganda,Phlebovirus riftense,Homo sapiens,2019,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201900877_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201900877_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201900877_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201900879_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201900879_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201900879_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201900880_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201900880_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201900880_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201901671_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2017,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201901671_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201901671_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902733_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902733_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902734_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902734_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902734_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902736_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902736_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902736_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902737_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902737_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902737_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902745_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902745_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902745_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902747_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902747_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902747_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902750_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902750_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902750_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902753_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902753_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902753_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902754_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902754_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902760_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902760_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902760_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902763_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902763_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902763_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 201902764_L|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 201902764_M|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 201902764_S|Uganda|2018,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2020000148_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2020000148_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2020000148_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2020000159_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2020000159_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2020000159_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2020001195_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2020001195_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2020001195_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2020002574_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2020002574_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2020002574_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2021000843_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2018,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2021000843_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | 2021001358_L|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,2017,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | 2021001358_M|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | 2021001358_S|Uganda,Uganda,Phlebovirus riftense,Homo sapiens,unknown_date,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | ACCESSION_DQ375429,Uganda,Phlebovirus riftense,Culicidae,1944,1,L,1,TRUE,FALSE,FALSE,1,L only
+Uganda | ACCESSION_DQ375430,Uganda,Phlebovirus riftense,unknown_host,1944,1,L,1,TRUE,FALSE,FALSE,1,L only
+Uganda | ACCESSION_DQ380156,Uganda,Phlebovirus riftense,Culicidae,1944,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | ACCESSION_DQ380157,Uganda,Phlebovirus riftense,unknown_host,1944,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | ACCESSION_DQ380191,Uganda,Phlebovirus riftense,Culicidae,1944,1,M,1,FALSE,TRUE,FALSE,1,M only
+Uganda | ACCESSION_EU312121,Uganda,Phlebovirus riftense,Culicidae,1955,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | ACCESSION_KU167025,Uganda,Phlebovirus riftense,Culicidae,1955,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | ACCESSION_KU167026,Uganda,Phlebovirus riftense,Culicidae,1955,1,M,1,FALSE,TRUE,FALSE,1,M only
+Uganda | ACCESSION_KU167027,Uganda,Phlebovirus riftense,Culicidae,1955,1,L,1,TRUE,FALSE,FALSE,1,L only
+Uganda | ACCESSION_MG953418,Uganda,Phlebovirus riftense,Homo sapiens,2016-03-15,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | ACCESSION_MG953420,Uganda,Phlebovirus riftense,Homo sapiens,2016-06-09,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | ACCESSION_MG953421,Uganda,Phlebovirus riftense,Homo sapiens,2016-06-09,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG953422,Uganda,Phlebovirus riftense,Homo sapiens,2016-03-15,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG953423,Uganda,Phlebovirus riftense,Homo sapiens,2016-03-15,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG953424,Uganda,Phlebovirus riftense,Homo sapiens,2016-03-15,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | ACCESSION_MG953426,Uganda,Phlebovirus riftense,Homo sapiens,2016-06-09,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | ACCESSION_MG972972,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-21,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG972973,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-21,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | ACCESSION_MG972974,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-21,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | ACCESSION_MG972975,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-16,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG972976,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-16,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | ACCESSION_MG972977,Uganda,Phlebovirus riftense,Homo sapiens,2017-11-16,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | ACCESSION_MG972978,Uganda,Phlebovirus riftense,Homo sapiens,2017-12-07,1,L,1,TRUE,FALSE,FALSE,0,L only
+Uganda | ACCESSION_MG972979,Uganda,Phlebovirus riftense,Homo sapiens,2017-12-07,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | ACCESSION_MG972980,Uganda,Phlebovirus riftense,Homo sapiens,2017-12-07,1,S,1,FALSE,FALSE,TRUE,0,S only
+Uganda | CD300/Kabale1-2022,Uganda,Phlebovirus riftense,Homo sapiens,2022-03-10,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Uganda | CD301/Rubanda1-2022,Uganda,Phlebovirus riftense,Homo sapiens,2022-04-10,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Uganda | CD304/Rubanda2-2023,Uganda,Phlebovirus riftense,Homo sapiens,2023-02-01,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Uganda | CD532/Isingiro1-2023,Uganda,Phlebovirus riftense,Homo sapiens,2023-01-30,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Uganda | Lantana,Uganda,Phlebovirus riftense,Bos taurus,2022-06-01,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | Lunyo,Uganda,Phlebovirus riftense,Aedes,1955,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Uganda | NAK/1/31,Uganda,Phlebovirus riftense,Bos taurus,2021-01-29,1,S,1,FALSE,FALSE,TRUE,1,S only
+Uganda | NAK/1/40,Uganda,Phlebovirus riftense,Bos taurus,2021-01-20,2,"L,S",2,TRUE,FALSE,TRUE,2,L+S
+Uganda | RSA/OBP/RVFVSmithburn/LAV,Uganda,Phlebovirus riftense,unknown_host,1944,3,"L,M,S",3,TRUE,TRUE,TRUE,0,L+M+S
+Uganda | SNS,Uganda,Phlebovirus riftense,Eretmapodites,1944,1,M,1,FALSE,TRUE,FALSE,0,M only
+Uganda | TF47,Uganda,Phlebovirus riftense,Bos taurus,2019-07-18,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zambia | ACCESSION_EU312123,Zambia,Phlebovirus riftense,Homo sapiens,1985,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zambia | SPU44/85,Zambia,Phlebovirus riftense,Homo sapiens,1985,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | 688/78,Zimbabwe,Phlebovirus riftense,unknown_host,1978,1,S,1,FALSE,FALSE,TRUE,0,S only
+Zimbabwe | ACCESSION_DQ375413,Zimbabwe,Phlebovirus riftense,unknown_host,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ375418,Zimbabwe,Phlebovirus riftense,unknown_host,1978,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ375424,Zimbabwe,Phlebovirus riftense,unknown_host,1978,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ375426,Zimbabwe,Phlebovirus riftense,unknown_host,1970,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ375432,Zimbabwe,Phlebovirus riftense,unknown_host,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ375434,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,L,1,TRUE,FALSE,FALSE,1,L only
+Zimbabwe | ACCESSION_DQ380143,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380159,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380164,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380168,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380173,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380174,Zimbabwe,Phlebovirus riftense,Bos taurus,1970,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_DQ380188,Zimbabwe,Phlebovirus riftense,Bos taurus,1970,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_DQ380194,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_DQ380209,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_DQ380214,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_DQ380220,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_DQ380222,Zimbabwe,Phlebovirus riftense,Bos taurus,1974,1,M,1,FALSE,TRUE,FALSE,1,M only
+Zimbabwe | ACCESSION_EU312130,Zimbabwe,Phlebovirus riftense,Bos taurus,1970,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312131,Zimbabwe,Phlebovirus riftense,Bos taurus,1979,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312132,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312133,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312134,Zimbabwe,Phlebovirus riftense,Ovis aries,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312135,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | ACCESSION_EU312136,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,S,1,FALSE,FALSE,TRUE,1,S only
+Zimbabwe | Ar11186,Zimbabwe,Phlebovirus riftense,Aedes lineatopennis,1969,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1032/78,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1187/79,Zimbabwe,Phlebovirus riftense,Bos taurus,1979,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1217/78,Zimbabwe,Phlebovirus riftense,Ovis aries,1978,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Zimbabwe | VRL1260/78,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1290/78,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Zimbabwe | VRL1290A/78,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1516/78,Zimbabwe,Phlebovirus riftense,Ovis aries,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1548/78,Zimbabwe,Phlebovirus riftense,unknown_host,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL1887/78,Zimbabwe,Phlebovirus riftense,Bos taurus,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL2051/76,Zimbabwe,Phlebovirus riftense,Homo sapiens,1976,3,"L,M,S",3,TRUE,TRUE,TRUE,3,L+M+S
+Zimbabwe | VRL2354/78,Zimbabwe,Phlebovirus riftense,unknown_host,1978,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL2373/74,Zimbabwe,Phlebovirus riftense,unknown_host,1974,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL2413/98,Zimbabwe,Phlebovirus riftense,Bos taurus,1998,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL763/70,Zimbabwe,Phlebovirus riftense,unknown_host,1970,1,M,1,FALSE,TRUE,FALSE,0,M only
+Zimbabwe | VRL825/79,Zimbabwe,Phlebovirus riftense,Bos taurus,1979,1,M,1,FALSE,TRUE,FALSE,0,M only
