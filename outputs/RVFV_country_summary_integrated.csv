@@ -1,0 +1,26 @@
+admin,n_isolates,n_full_tripartite,n_partial,pct_full_tripartite
+Angola,3,1,2,33.3
+Botswana,4,2,2,50
+Burkina Faso,4,0,4,0
+Burundi,7,0,7,0
+Central African Republic,33,2,31,6.1
+Chad,2,0,2,0
+Egypt,47,1,46,2.1
+Gabon,4,0,4,0
+Guinea,8,0,8,0
+Kenya,200,30,170,15
+Madagascar,195,1,194,0.5
+Mali,2,0,2,0
+Mauritania,42,3,39,7.1
+Mozambique,2,0,2,0
+Namibia,5,4,1,80
+Niger,3,0,3,0
+Rwanda,68,18,50,26.5
+Senegal,9,5,4,55.6
+Somalia,2,0,2,0
+South Africa,160,127,33,79.4
+Sudan,23,0,23,0
+Tanzania,12,0,12,0
+Uganda,107,6,101,5.6
+Zambia,2,0,2,0
+Zimbabwe,42,3,39,7.1
