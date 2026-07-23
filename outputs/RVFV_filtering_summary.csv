@@ -1,0 +1,10 @@
+filtering_stage,n_records
+Input records,1669
+"L, M and S segment records",1472
+Records without accession numbers,0
+Repeated accession records removed,0
+Vaccine/laboratory/recombinant records removed,1
+Additional isolate-segment records removed,26
+Final retained segment sequences,1445
+Final unique isolates,965
+Countries represented,25
