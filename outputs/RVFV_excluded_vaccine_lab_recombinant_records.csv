@@ -1,0 +1,2 @@
+Accession,Organism_Name,Species,Isolate,Segment,Length,Nuc_Completeness,Country,Host,Collection_Date,metadata_score,exclusion_flag
+HM587103,Rift Valley fever virus,Phlebovirus riftense,95EG vaccine,M,490,partial,Uganda,NA,1944,5,TRUE
