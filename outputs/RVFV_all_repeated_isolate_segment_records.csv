@@ -1,0 +1,53 @@
+Accession,Organism_Name,Species,Isolate,Segment,Length,Nuc_Completeness,Country,Host,Collection_Date,metadata_score,isolate_clean,country_clean,isolate_key,completeness_rank,length_rank,records_per_isolate_segment
+MG659812,Rift Valley fever virus,Phlebovirus riftense,B314,M,3885,complete,Kenya,Bos taurus,1962,5,B314,Kenya,Kenya | B314,3,3885,2
+HM587105,Rift Valley fever virus,Phlebovirus riftense,B314,M,490,partial,Kenya,Bos taurus,1962,5,B314,Kenya,Kenya | B314,2,490,2
+MG659813,Rift Valley fever virus,Phlebovirus riftense,S35,M,3885,complete,Kenya,Ovis aries,1972,5,S35,Kenya,Kenya | S35,3,3885,2
+HM587045,Rift Valley fever virus,Phlebovirus riftense,S35,M,490,partial,Kenya,Ovis aries,1972,5,S35,Kenya,Kenya | S35,2,490,2
+HQ009512,Rift Valley fever virus,Phlebovirus riftense,M48/08,M,3885,complete,Madagascar,Bos taurus,2008,5,M48/08,Madagascar,Madagascar | M48/08,3,3885,2
+KX944843,Rift Valley fever virus,Phlebovirus riftense,M48/08,M,3885,partial,Madagascar,Bos taurus,2008,5,M48/08,Madagascar,Madagascar | M48/08,2,3885,2
+OK392020,Rift Valley fever virus,Phlebovirus riftense,2018/MRT,S,821,partial,Mauritania,Culicidae,2018,5,2018/MRT,Mauritania,Mauritania | 2018/MRT,2,821,2
+OK415590,Rift Valley fever virus,Phlebovirus riftense,2018/MRT,S,773,partial,Mauritania,Culicidae,2018,5,2018/MRT,Mauritania,Mauritania | 2018/MRT,2,773,2
+MT561460,Rift Valley fever virus,Phlebovirus riftense,Namibia_2010,M,3885,partial,Namibia,Ovis aries,2010-07-30,5,Namibia_2010,Namibia,Namibia | Namibia_2010,2,3885,2
+KC935380,Rift Valley fever virus,Phlebovirus riftense,Namibia_2010,M,490,partial,Namibia,Ovis aries,2010-07-30,5,Namibia_2010,Namibia,Namibia | Namibia_2010,2,490,2
+KY126703,Rift Valley fever virus,Phlebovirus riftense,SPU77/04,M,3885,complete,Namibia,Homo sapiens,2004,5,SPU77/04,Namibia,Namibia | SPU77/04,3,3885,2
+HM587100,Rift Valley fever virus,Phlebovirus riftense,SPU77/04,M,490,partial,Namibia,Homo sapiens,2004,5,SPU77/04,Namibia,Namibia | SPU77/04,2,490,2
+PP746356,Rift Valley fever virus,Phlebovirus riftense,Rwanda2022P326,M,3587,partial,Rwanda,Bos taurus,2022-09-28,5,Rwanda2022P326,Rwanda,Rwanda | Rwanda2022P326,2,3587,2
+PP826244,Rift Valley fever virus,Phlebovirus riftense,Rwanda2022P326,M,3513,partial,Rwanda,Bos taurus,2022-09-28,5,Rwanda2022P326,Rwanda,Rwanda | Rwanda2022P326,2,3513,2
+MG659818,Rift Valley fever virus,Phlebovirus riftense,HD21955,M,3885,complete,Senegal,Homo sapiens,1975,5,HD21955,Senegal,Senegal | HD21955,3,3885,2
+HM587123,Rift Valley fever virus,Phlebovirus riftense,HD21955,M,490,partial,Senegal,Homo sapiens,1975,5,HD21955,Senegal,Senegal | HD21955,2,490,2
+KY126711,Rift Valley fever virus,Phlebovirus riftense,An1830,M,3885,complete,South Africa,Ovis aries,1956,5,An1830,South Africa,South Africa | An1830,3,3885,2
+HM587108,Rift Valley fever virus,Phlebovirus riftense,An1830,M,490,partial,South Africa,Ovis aries,1956,5,An1830,South Africa,South Africa | An1830,2,490,2
+KY126712,Rift Valley fever virus,Phlebovirus riftense,Ar12568,M,3885,complete,South Africa,Eretmapodites quinquevittatus,1971,5,Ar12568,South Africa,South Africa | Ar12568,3,3885,2
+HM587112,Rift Valley fever virus,Phlebovirus riftense,Ar12568,M,490,partial,South Africa,Eretmapodites quinquevittatus,1971,5,Ar12568,South Africa,South Africa | Ar12568,2,490,2
+KY126713,Rift Valley fever virus,Phlebovirus riftense,Ar20364,M,3885,complete,South Africa,Culex zombaensis,1981,5,Ar20364,South Africa,South Africa | Ar20364,3,3885,2
+HM587101,Rift Valley fever virus,Phlebovirus riftense,Ar20364,M,490,partial,South Africa,Culex zombaensis,1981,5,Ar20364,South Africa,South Africa | Ar20364,2,490,2
+KY126710,Rift Valley fever virus,Phlebovirus riftense,Ar74,M,3885,complete,South Africa,Aedes circumluteolus,1955,5,Ar74,South Africa,South Africa | Ar74,3,3885,2
+HM587109,Rift Valley fever virus,Phlebovirus riftense,Ar74,M,490,partial,South Africa,Aedes circumluteolus,1955,5,Ar74,South Africa,South Africa | Ar74,2,490,2
+KX944840,Rift Valley fever virus,Phlebovirus riftense,M37/08,M,3885,partial,South Africa,Bubalus bubalis,2008,5,M37/08,South Africa,South Africa | M37/08,2,3885,2
+HM587067,Rift Valley fever virus,Phlebovirus riftense,M37/08,M,490,partial,South Africa,Syncerus caffer,2008,5,M37/08,South Africa,South Africa | M37/08,2,490,2
+MG659747,Rift Valley fever virus,Phlebovirus riftense,SA106/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA106/10,South Africa,South Africa | SA106/10,3,3885,2
+HM587094,Rift Valley fever virus,Phlebovirus riftense,SA106/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA106/10,South Africa,South Africa | SA106/10,2,490,2
+MG659795,Rift Valley fever virus,Phlebovirus riftense,SA1224/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA1224/10,South Africa,South Africa | SA1224/10,3,3885,2
+HM587099,Rift Valley fever virus,Phlebovirus riftense,SA1224/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA1224/10,South Africa,South Africa | SA1224/10,2,490,2
+KY126693,Rift Valley fever virus,Phlebovirus riftense,SA184/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA184/10,South Africa,South Africa | SA184/10,3,3885,2
+HM587107,Rift Valley fever virus,Phlebovirus riftense,SA184/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA184/10,South Africa,South Africa | SA184/10,2,490,2
+KY126695,Rift Valley fever virus,Phlebovirus riftense,SA276/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA276/10,South Africa,South Africa | SA276/10,3,3885,2
+HM587093,Rift Valley fever virus,Phlebovirus riftense,SA276/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA276/10,South Africa,South Africa | SA276/10,2,490,2
+MG659772,Rift Valley fever virus,Phlebovirus riftense,SA482/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA482/10,South Africa,South Africa | SA482/10,3,3885,2
+HM587089,Rift Valley fever virus,Phlebovirus riftense,SA482/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA482/10,South Africa,South Africa | SA482/10,2,490,2
+MG659737,Rift Valley fever virus,Phlebovirus riftense,SA71/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA71/10,South Africa,South Africa | SA71/10,3,3885,2
+HM587088,Rift Valley fever virus,Phlebovirus riftense,SA71/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA71/10,South Africa,South Africa | SA71/10,2,490,2
+MG659740,Rift Valley fever virus,Phlebovirus riftense,SA85/10,M,3885,complete,South Africa,Homo sapiens,2010,5,SA85/10,South Africa,South Africa | SA85/10,3,3885,2
+HM587098,Rift Valley fever virus,Phlebovirus riftense,SA85/10,M,490,partial,South Africa,Homo sapiens,2010,5,SA85/10,South Africa,South Africa | SA85/10,2,490,2
+KY126714,Rift Valley fever virus,Phlebovirus riftense,SPU52/99/1,M,3885,complete,South Africa,Syncerus caffer,1999,5,SPU52/99/1,South Africa,South Africa | SPU52/99/1,3,3885,2
+HM587046,Rift Valley fever virus,Phlebovirus riftense,SPU52/99/1,M,490,partial,South Africa,Syncerus caffer,1999,5,SPU52/99/1,South Africa,South Africa | SPU52/99/1,2,490,2
+KY126708,Rift Valley fever virus,Phlebovirus riftense,SPU86/09,M,3885,complete,South Africa,Bos taurus,2009,5,SPU86/09,South Africa,South Africa | SPU86/09,3,3885,2
+HM587065,Rift Valley fever virus,Phlebovirus riftense,SPU86/09,M,490,partial,South Africa,Homo sapiens,2009,5,SPU86/09,South Africa,South Africa | SPU86/09,2,490,2
+MG659817,Rift Valley fever virus,Phlebovirus riftense,Lunyo,M,3885,complete,Uganda,Aedes,1955,5,Lunyo,Uganda,Uganda | Lunyo,3,3885,2
+HM587119,Rift Valley fever virus,Phlebovirus riftense,Lunyo,M,490,partial,Uganda,Aedes sp.,1955,5,Lunyo,Uganda,Uganda | Lunyo,2,490,2
+MG659815,Rift Valley fever virus,Phlebovirus riftense,VRL1217/78,M,3885,complete,Zimbabwe,Ovis aries,1978,5,VRL1217/78,Zimbabwe,Zimbabwe | VRL1217/78,3,3885,2
+HM587073,Rift Valley fever virus,Phlebovirus riftense,VRL1217/78,M,490,partial,Zimbabwe,Ovis aries,1978,5,VRL1217/78,Zimbabwe,Zimbabwe | VRL1217/78,2,490,2
+MG659816,Rift Valley fever virus,Phlebovirus riftense,VRL1290/78,M,3885,complete,Zimbabwe,Bos taurus,1978,5,VRL1290/78,Zimbabwe,Zimbabwe | VRL1290/78,3,3885,2
+HM587077,Rift Valley fever virus,Phlebovirus riftense,VRL1290/78,M,490,partial,Zimbabwe,NA,1978,5,VRL1290/78,Zimbabwe,Zimbabwe | VRL1290/78,2,490,2
+MG659814,Rift Valley fever virus,Phlebovirus riftense,VRL2051/76,M,3885,complete,Zimbabwe,Homo sapiens,1976,5,VRL2051/76,Zimbabwe,Zimbabwe | VRL2051/76,3,3885,2
+HM587072,Rift Valley fever virus,Phlebovirus riftense,VRL2051/76,M,490,partial,Zimbabwe,Homo sapiens,1976,5,VRL2051/76,Zimbabwe,Zimbabwe | VRL2051/76,2,490,2
