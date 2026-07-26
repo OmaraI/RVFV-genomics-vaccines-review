@@ -1,4 +1,4 @@
-# ==========================================================
+# =================================
 # Clean RVFV NCBI Virus metadata
 #
 # Purpose:
@@ -11,13 +11,9 @@
 # 6. Prefer the longest sequence when records have equal
 #    completeness
 # 7. Export retained and removed records with summaries
-# ==========================================================
 
-
-# ----------------------------------------------------------
 # 0. Setup
-# ----------------------------------------------------------
-
+# -----------------------------
 required_packages <- c(
   "dplyr",
   "readr",
@@ -39,20 +35,14 @@ library(stringr)
 library(tidyr)
 
 
-# ----------------------------------------------------------
+
 # 1. Set working directory
-# ----------------------------------------------------------
+# ------------------------------
 
-# Change this path to the folder containing sequences(3).csv
+setwd("/Users/IsaacOmara/Desktop/Manuscripts/Review_Article/Africa_Map/")
 
-setwd(
-  "/Users/IsaacOmara/Desktop/Manuscripts/Review_Article/Africa_Map/"
-)
-
-
-# ----------------------------------------------------------
 # 2. Read the dataset
-# ----------------------------------------------------------
+# -----------------------------
 
 rvfv_raw <- read_csv(
   "sequences.csv",
@@ -65,10 +55,8 @@ print(names(rvfv_raw))
 cat("\nInitial number of records:", nrow(rvfv_raw), "\n")
 
 
-# ----------------------------------------------------------
 # 3. Confirm that essential columns are present
-# ----------------------------------------------------------
-
+# ---------------------------------------------
 required_columns <- c(
   "Accession",
   "Isolate",
@@ -93,10 +81,8 @@ if (length(missing_columns) > 0) {
 }
 
 
-# ----------------------------------------------------------
 # 4. Standardise metadata fields
-# ----------------------------------------------------------
-
+# --------------------------------
 rvfv_standardised <- rvfv_raw %>%
   mutate(
     across(
@@ -116,9 +102,9 @@ rvfv_standardised <- rvfv_raw %>%
   )
 
 
-# ----------------------------------------------------------
+
 # 5. Restrict the analysis to RVFV L, M and S segments
-# ----------------------------------------------------------
+# ----------------------------------------------------
 
 rvfv_segments <- rvfv_standardised %>%
   filter(
@@ -126,7 +112,6 @@ rvfv_segments <- rvfv_standardised %>%
   )
 
 
-# ----------------------------------------------------------
 # 6. Remove records without accession numbers
 # ----------------------------------------------------------
 
@@ -141,7 +126,6 @@ rvfv_with_accession <- rvfv_segments %>%
   )
 
 
-# ----------------------------------------------------------
 # 7. Remove repeated accession numbers
 #
 # If the same accession occurs more than once, retain the
@@ -174,13 +158,11 @@ duplicate_accessions_removed <- rvfv_accession_ranked %>%
   ungroup()
 
 
-# ----------------------------------------------------------
 # 8. Create one searchable metadata string per row
 #
 # This permits vaccine and laboratory terms to be searched
 # across all available character metadata fields.
-# ----------------------------------------------------------
-
+# -----------------------------------------
 character_columns <- names(
   rvfv_unique_accessions
 )[
@@ -201,10 +183,8 @@ rvfv_searchable <- rvfv_unique_accessions %>%
   )
 
 
-# ----------------------------------------------------------
 # 9. Define exclusion terms
-# ----------------------------------------------------------
-
+# --------------------------------
 exclusion_pattern <- paste(
   c(
     "\\bsmithburn\\b",
@@ -233,11 +213,8 @@ exclusion_pattern <- paste(
   collapse = "|"
 )
 
-
-# ----------------------------------------------------------
 # 10. Flag and remove excluded records
-# ----------------------------------------------------------
-
+# -------------------------------------
 rvfv_flagged <- rvfv_searchable %>%
   mutate(
     exclusion_flag = str_detect(
@@ -261,7 +238,6 @@ rvfv_field_sequences <- rvfv_flagged %>%
   )
 
 
-# ----------------------------------------------------------
 # 11. Create a robust isolate identifier
 #
 # If an isolate ID is present, use it.
@@ -310,7 +286,7 @@ rvfv_field_sequences <- rvfv_field_sequences %>%
 #
 # Exact matching is used so that "partial" is never mistaken
 # for "complete".
-# ----------------------------------------------------------
+# -------------------------------
 
 rvfv_ranked <- rvfv_field_sequences %>%
   mutate(
@@ -357,7 +333,6 @@ rvfv_ranked <- rvfv_field_sequences %>%
   )
 
 
-# ----------------------------------------------------------
 # 13. Identify repeated isolate-segment combinations
 # ----------------------------------------------------------
 
@@ -378,15 +353,14 @@ isolate_segment_duplicates <- rvfv_ranked %>%
   )
 
 
-# ----------------------------------------------------------
+
 # 14. Retain the best sequence per isolate × segment
 #
 # Priority:
 # 1. Complete sequence
 # 2. Longest sequence
 # 3. Accession number as a reproducible tie-breaker
-# ----------------------------------------------------------
-
+# ------------------------------------
 rvfv_clean <- rvfv_ranked %>%
   arrange(
     isolate_key,
@@ -403,10 +377,10 @@ rvfv_clean <- rvfv_ranked %>%
   ungroup()
 
 
-# ----------------------------------------------------------
+
 # 15. Identify records removed during isolate-segment
 # deduplication
-# ----------------------------------------------------------
+# --------------------------------
 
 duplicate_isolate_segment_records_removed <- rvfv_ranked %>%
   anti_join(
@@ -420,10 +394,9 @@ duplicate_isolate_segment_records_removed <- rvfv_ranked %>%
   )
 
 
-# ----------------------------------------------------------
-# 16. Create isolate-level completeness table
-# ----------------------------------------------------------
 
+# 16. Create isolate-level completeness table
+# ----------------------------------------
 isolate_summary <- rvfv_clean %>%
   group_by(
     isolate_key,
@@ -479,10 +452,8 @@ isolate_summary <- rvfv_clean %>%
     )
   )
 
-
-# ----------------------------------------------------------
 # 17. Country-level sequence summary
-# ----------------------------------------------------------
+# -------------------------------------
 
 country_sequence_summary <- rvfv_clean %>%
   count(
@@ -506,7 +477,6 @@ country_sequence_summary <- rvfv_clean %>%
   )
 
 
-# ----------------------------------------------------------
 # 18. Country-level isolate and completeness summary
 # ----------------------------------------------------------
 
@@ -544,9 +514,9 @@ country_isolate_summary <- isolate_summary %>%
   )
 
 
-# ----------------------------------------------------------
+
 # 19. Segment summary
-# ----------------------------------------------------------
+# -------------------------------
 
 segment_summary <- rvfv_clean %>%
   count(
@@ -560,9 +530,9 @@ segment_summary <- rvfv_clean %>%
   )
 
 
-# ----------------------------------------------------------
+
 # 20. Create filtering summary
-# ----------------------------------------------------------
+# -------------------------------
 
 filtering_summary <- tibble(
   filtering_stage = c(
@@ -591,7 +561,7 @@ filtering_summary <- tibble(
 )
 
 
-# ----------------------------------------------------------
+
 # 21. Remove temporary ranking variables from final dataset
 # ----------------------------------------------------------
 
@@ -603,7 +573,6 @@ rvfv_clean_export <- rvfv_clean %>%
   )
 
 
-# ----------------------------------------------------------
 # 22. Export output files
 # ----------------------------------------------------------
 
@@ -663,10 +632,9 @@ write_csv(
 )
 
 
-# ----------------------------------------------------------
-# 23. Print final summary
-# ----------------------------------------------------------
 
+# 23. Print final summary
+# ------------------------
 cat("\n")
 cat("====================================================\n")
 cat("RVFV DATASET CLEANING SUMMARY\n")
